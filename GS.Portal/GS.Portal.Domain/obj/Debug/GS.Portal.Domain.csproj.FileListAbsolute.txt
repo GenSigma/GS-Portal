@@ -10,3 +10,15 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\bin\Debug\EntityFramework.S
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.csprojResolveAssemblyReference.cache
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Domain.dll.config
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Domain.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Domain.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\EntityFramework.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\EntityFramework.SqlServer.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Data.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\GS.Portal.Data.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\EntityFramework.xml
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\bin\Debug\EntityFramework.SqlServer.xml
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.csprojResolveAssemblyReference.cache
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Domain\obj\Debug\GS.Portal.Domain.pdb

@@ -10,3 +10,15 @@ F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\bin\Debug\EntityFramework.
 F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.csprojResolveAssemblyReference.cache
 F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.dll
 F:\GenSigma Portal\Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Potal.Business.dll.config
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Potal.Business.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Potal.Business.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Portal.Data.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Portal.Domain.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\EntityFramework.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Portal.Data.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\GS.Portal.Domain.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\bin\Debug\EntityFramework.xml
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.csprojResolveAssemblyReference.cache
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Potal.Business\obj\Debug\GS.Potal.Business.pdb
