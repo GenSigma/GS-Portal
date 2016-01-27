@@ -1,0 +1,130 @@
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\ApplicationInsights.config
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\csc.exe
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\vbc.exe
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.Tests.dll.config
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.Tests.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.Tests.pdb
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Owin.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.pdb
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Optimization.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.csprojResolveAssemblyReference.cache
+F:\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.dll
+F:\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\ApplicationInsights.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\csc.exe
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\vbc.exe
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.Tests.dll.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.Tests.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.Tests.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Helpers.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Mvc.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Razor.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Optimization.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Owin.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Potal.Business.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Web.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Helpers.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Mvc.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Razor.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Optimization.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Domain.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Potal.Business.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Data.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.csprojResolveAssemblyReference.cache
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web.Tests\obj\Debug\GS.Portal.Web.Tests.pdb

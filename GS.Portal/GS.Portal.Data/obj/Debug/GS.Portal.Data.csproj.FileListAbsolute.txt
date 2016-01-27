@@ -1,0 +1,9 @@
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\GS.Portal.Data.dll.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\GS.Portal.Data.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\obj\Debug\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\obj\Debug\GS.Portal.Data.pdb

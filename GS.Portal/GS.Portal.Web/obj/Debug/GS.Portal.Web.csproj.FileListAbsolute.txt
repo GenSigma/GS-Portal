@@ -1,0 +1,182 @@
+F:\GS.Portal\GS.Portal.Web\bin\ApplicationInsights.config
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\csc.exe
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\vbc.exe
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\VBCSCompiler.exe
+F:\GS.Portal\GS.Portal.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.dll.config
+F:\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.dll
+F:\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.pdb
+F:\GS.Portal\GS.Portal.Web\bin\Antlr3.Runtime.dll
+F:\GS.Portal\GS.Portal.Web\bin\EntityFramework.dll
+F:\GS.Portal\GS.Portal.Web\bin\EntityFramework.SqlServer.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Web.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.ApplicationInsights.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Google.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\GS.Portal\GS.Portal.Web\bin\Newtonsoft.Json.dll
+F:\GS.Portal\GS.Portal.Web\bin\Owin.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Net.Http.Formatting.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Helpers.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Http.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Http.WebHost.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Mvc.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Optimization.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Razor.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Deployment.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.dll
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Razor.dll
+F:\GS.Portal\GS.Portal.Web\bin\WebGrease.dll
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Web.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.ApplicationInsights.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Helpers.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Mvc.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Optimization.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Razor.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Deployment.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Razor.xml
+F:\GS.Portal\GS.Portal.Web\bin\Antlr3.Runtime.pdb
+F:\GS.Portal\GS.Portal.Web\bin\Newtonsoft.Json.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Net.Http.Formatting.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Http.xml
+F:\GS.Portal\GS.Portal.Web\bin\System.Web.Http.WebHost.xml
+F:\GS.Portal\GS.Portal.Web\bin\EntityFramework.xml
+F:\GS.Portal\GS.Portal.Web\bin\EntityFramework.SqlServer.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Google.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.csprojResolveAssemblyReference.cache
+F:\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.dll
+F:\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\ApplicationInsights.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\csc.exe
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\vbc.exe
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\VBCSCompiler.exe
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.dll.config
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Web.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Antlr3.Runtime.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\EntityFramework.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\EntityFramework.SqlServer.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Web.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.ApplicationInsights.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Google.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Web.Infrastructure.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Newtonsoft.Json.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Owin.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Net.Http.Formatting.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Helpers.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Http.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Http.WebHost.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Mvc.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Optimization.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Razor.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Deployment.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Razor.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\WebGrease.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Domain.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Potal.Business.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.Web.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.ApplicationInsights.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Helpers.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Mvc.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Optimization.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Razor.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Deployment.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.WebPages.Razor.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Antlr3.Runtime.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Newtonsoft.Json.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Net.Http.Formatting.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Http.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\System.Web.Http.WebHost.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\EntityFramework.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\EntityFramework.SqlServer.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Google.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.pdb
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.csprojResolveAssemblyReference.cache
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.dll
+F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.pdb
