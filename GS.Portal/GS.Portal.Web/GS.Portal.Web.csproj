@@ -215,6 +215,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201601280758550_InitialCreate.cs" />
+    <Compile Include="Migrations\201601280758550_InitialCreate.Designer.cs">
+      <DependentUpon>201601280758550_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
@@ -306,6 +311,11 @@
       <Project>{6b05f705-e164-48b2-a09a-cb8655648242}</Project>
       <Name>GS.Potal.Business</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201601280758550_InitialCreate.resx">
+      <DependentUpon>201601280758550_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

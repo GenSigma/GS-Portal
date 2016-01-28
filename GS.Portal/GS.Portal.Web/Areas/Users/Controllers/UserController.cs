@@ -13,7 +13,7 @@ namespace GS.Portal.Web.Areas.Users.Controllers
         public ActionResult Index()
         {
             var userModel = new UserModels();
-            userModel.MasterUser = user.GetMasterUser("eca8fd88-c37f-4090-890e-953c6f024a70");
+            userModel.MasterUser = user.GetMasterUser("e952afc5-aa5c-426d-9b4d-a69158c53c79");
             return View(userModel);
         }
 
