@@ -1,5 +1,7 @@
 namespace GS.Portal.Web.Migrations
 {
+    using Microsoft.AspNet.Identity;
+    using Microsoft.AspNet.Identity.EntityFramework;
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Migrations;
@@ -9,8 +11,7 @@ namespace GS.Portal.Web.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
-            ContextKey = "GS.Portal.Web.Models.ApplicationDbContext";
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(GS.Portal.Web.Models.ApplicationDbContext context)
@@ -27,6 +28,21 @@ namespace GS.Portal.Web.Migrations
             //      new Person { FullName = "Rowan Miller" }
             //    );
             //
+
+            var roleManager = new RoleManager<IdentityRole>(new RoleStore<IdentityRole>(context));
+            string[] roleNames = { "Admin", "HumanResource", "Employee" };
+            IdentityResult roleResult;
+
+            foreach (var roleName in roleNames)
+            {
+                if (!roleManager.RoleExists(roleName))
+                {
+                    roleResult = roleManager.Create(new IdentityRole(roleName));
+                }
+            }
+
+            //var userManager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(context));
+            //userManager.AddToRole("e952afc5-aa5c-426d-9b4d-a69158c53c79", "Admin");
         }
     }
 }

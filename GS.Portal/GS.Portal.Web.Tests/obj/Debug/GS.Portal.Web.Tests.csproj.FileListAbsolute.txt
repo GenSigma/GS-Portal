@@ -163,9 +163,9 @@ F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Owin.dl
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Domain.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Potal.Business.dll
-F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.WebHost.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
@@ -186,9 +186,9 @@ F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microso
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Portal.Domain.pdb
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\GS.Potal.Business.pdb
-F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\EntityFramework.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml

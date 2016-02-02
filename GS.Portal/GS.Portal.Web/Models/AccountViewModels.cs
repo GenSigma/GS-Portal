@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using GS.Portal.Domain.Entities.Users;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace GS.Portal.Web.Models
@@ -65,6 +66,21 @@ namespace GS.Portal.Web.Models
     public class RegisterViewModel
     {
         [Required]
+        [StringLength(40, ErrorMessage = "Field can not be empty", MinimumLength = 1)]
+        [Display(Name = "First Name")]
+        public string FirstName { get; set; }
+
+        [Required]
+        [StringLength(40, ErrorMessage = "Field can not be empty", MinimumLength = 1)]
+        [Display(Name = "Middle Name")]
+        public string MiddleName { get; set; }
+
+        [Required]
+        [StringLength(40, ErrorMessage = "Field can not be empty", MinimumLength = 1)]
+        [Display(Name = "Last Name")]
+        public string LastName { get; set; }
+
+        [Required]
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; }
@@ -79,6 +95,22 @@ namespace GS.Portal.Web.Models
         [Display(Name = "Confirm password")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
         public string ConfirmPassword { get; set; }
+
+        [Display(Name = "User Name")]
+        public string UserName { get; set; }
+
+        [Display(Name = "Employee Id")]
+        public string EmployeeId { get; set; }
+
+        [Display(Name = "Date Of Joining")]
+        public string DateOfJoining { get; set; }
+
+        [Display(Name = "Role")]
+        public string Role { get; set; }
+
+        public string SelectedRoleId { get; set; }
+
+        public System.Web.Mvc.SelectList Roles;
     }
 
     public class ResetPasswordViewModel

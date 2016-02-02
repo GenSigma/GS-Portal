@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'F:\GenSigma Portal\Portal\GS.Portal\GS.Portal.Data\PortalEntities.edmx'. 
+﻿// T4 code generation is enabled for model 'F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\PortalEntities.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.

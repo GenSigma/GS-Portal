@@ -2,6 +2,9 @@
 using GS.Portal.Domain.Entities;
 using GS.Portal.Domain.Repositories;
 using System.Linq;
+using System;
+using GS.Portal.Domain.Entities.Users;
+using System.Collections.Generic;
 
 namespace GS.Portal.Domain.RepositoryServices
 {
@@ -18,17 +21,37 @@ namespace GS.Portal.Domain.RepositoryServices
             get { return _context as GS_PortalEntities; }
         }
 
-        public User GetMasterUser(string id)
+        public List<UserRole> GetRoles()
+        {
+            var userRoles = new List<UserRole>();
+
+            userRoles = PortalContext.AspNetRoles.Select(x => new UserRole()
+            {
+                Id = x.Id,
+                Name = x.Name
+            }).ToList<UserRole>();
+
+            return userRoles;
+        }
+
+        public int LastEmployeeSequenceNumber()
         {
             var user = new User();
 
-            var contextUser = PortalContext.AspNetUsers.Where(x => x.Id == id).FirstOrDefault();
-
-            user.Id = contextUser.Id;
-            user.UserName = contextUser.UserName;
-            user.Email = contextUser.Email;
-
-            return user;
+            return PortalContext.AspNetUsers.Max(x => x.EmpSeqNo);
         }
+
+        //public User GetMasterUser(string id)
+        //{
+        //    var user = new User();
+
+        //    var contextUser = PortalContext.AspNetUsers.Where(x => x.Id == id).FirstOrDefault();
+
+        //    user.Id = contextUser.Id;
+        //    user.UserName = contextUser.UserName;
+        //    user.Email = contextUser.Email;
+
+        //    return user;
+        //}
     }
 }

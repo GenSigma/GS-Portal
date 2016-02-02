@@ -26,5 +26,6 @@ namespace GS.Portal.Data
         }
     
         public virtual DbSet<AspNetUser> AspNetUsers { get; set; }
+        public virtual DbSet<AspNetRole> AspNetRoles { get; set; }
     }
 }

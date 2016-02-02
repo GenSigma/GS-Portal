@@ -14,6 +14,5 @@ F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramew
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.SqlServer.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.xml
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\bin\Debug\EntityFramework.SqlServer.xml
-F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\obj\Debug\GS.Portal.Data.csprojResolveAssemblyReference.cache
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\obj\Debug\GS.Portal.Data.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Data\obj\Debug\GS.Portal.Data.pdb

@@ -9,6 +9,9 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using GS.Portal.Web.Models;
+using GS.Potal.Business;
+using System.Collections.Generic;
+using GS.Portal.Domain.Entities.Users;
 
 namespace GS.Portal.Web.Controllers
 {
@@ -139,7 +142,27 @@ namespace GS.Portal.Web.Controllers
         [AllowAnonymous]
         public ActionResult Register()
         {
-            return View();
+            var registerViewModel = new RegisterViewModel();
+
+            var roleList = GetRoles();
+
+            registerViewModel.Roles = new SelectList(roleList, "Value", "Text");
+
+            return View(registerViewModel);
+        }
+
+        private List<SelectListItem> GetRoles()
+        {
+            var userManager = new UserManager();
+            List<SelectListItem> roleList = new List<SelectListItem>();
+
+            var roles = userManager.GetRoles();
+            foreach (var item in roles)
+            {
+                roleList.Add(new SelectListItem() { Value = item.Id, Text = item.Name});
+            }
+
+            return roleList;
         }
 
         //
@@ -151,7 +174,17 @@ namespace GS.Portal.Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser { UserName = model.Email, Email = model.Email };
+                var user = new ApplicationUser
+                {
+                    UserName = string.Format("{0}{1}{0}", model.FirstName, model.LastName.Substring(0, 1), "@gensigma.com"),
+                    Email = model.Email,
+                    FirstName = model.FirstName,
+                    MiddleName = model.MiddleName,
+                    LastName = model.LastName,
+                    Role = model.SelectedRoleId,
+                    EmployeeId = GenerateNextUserId(),
+                    DateOfJoining = DateTime.Now
+                };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
@@ -170,6 +203,15 @@ namespace GS.Portal.Web.Controllers
 
             // If we got this far, something failed, redisplay form
             return View(model);
+        }
+
+        private string GenerateNextUserId()
+        {
+            var userManager = new UserManager();
+
+            var lastUserId = userManager.LastEmployeeSequenceNumber();
+
+            return string.Format("{0}{1}", "EMP", lastUserId + 1);
         }
 
         //

@@ -49,7 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\User.cs" />
+    <Compile Include="Entities\Users\User.cs" />
+    <Compile Include="Entities\Users\UserRole.cs" />
     <Compile Include="HelperServices\PortalUnitOfWork.cs" />
     <Compile Include="Helpers\IPortalUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
