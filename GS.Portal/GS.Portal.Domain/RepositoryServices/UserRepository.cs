@@ -40,18 +40,5 @@ namespace GS.Portal.Domain.RepositoryServices
 
             return PortalContext.AspNetUsers.Max(x => x.EmpSeqNo);
         }
-
-        //public User GetMasterUser(string id)
-        //{
-        //    var user = new User();
-
-        //    var contextUser = PortalContext.AspNetUsers.Where(x => x.Id == id).FirstOrDefault();
-
-        //    user.Id = contextUser.Id;
-        //    user.UserName = contextUser.UserName;
-        //    user.Email = contextUser.Email;
-
-        //    return user;
-        //}
     }
 }

@@ -57,6 +57,9 @@
     <Compile Include="AspNetUser.cs">
       <DependentUpon>PortalEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="AspNetUserClaim.cs">
+      <DependentUpon>PortalEntities.tt</DependentUpon>
+    </Compile>
     <Compile Include="PortalEntities.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

@@ -105,7 +105,6 @@ namespace GS.Portal.Web.Models
         [Display(Name = "Date Of Joining")]
         public string DateOfJoining { get; set; }
 
-        [Display(Name = "Role")]
         public string Role { get; set; }
 
         public string SelectedRoleId { get; set; }

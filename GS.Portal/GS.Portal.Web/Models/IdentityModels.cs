@@ -20,8 +20,6 @@ namespace GS.Portal.Web.Models
 
         public string EmployeeId { get; set; }
 
-        public string Role { get; set; }
-
         public DateTime DateOfJoining { get; set; }
 
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)

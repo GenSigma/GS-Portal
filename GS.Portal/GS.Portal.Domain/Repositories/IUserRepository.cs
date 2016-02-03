@@ -6,10 +6,16 @@ namespace GS.Portal.Domain.Repositories
 {
     public interface IUserRepository : IRepository<User>
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         int LastEmployeeSequenceNumber();
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         List<UserRole> GetRoles();
-
-        //User GetMasterUser(string id);
     }
 }

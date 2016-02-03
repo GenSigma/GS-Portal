@@ -24,13 +24,5 @@ namespace GS.Potal.Business
                 return portal.User.GetRoles();
             }
         }
-
-        //public User GetMasterUser(string id)
-        //{
-        //    using (var portal = new PortalUnitOfWork(new GS_PortalEntities()))
-        //    {
-        //        return portal.User.GetMasterUser(id);
-        //    }
-        //}
     }
 }

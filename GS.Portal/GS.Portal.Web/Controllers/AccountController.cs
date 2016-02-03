@@ -20,9 +20,11 @@ namespace GS.Portal.Web.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
+        private ApplicationDbContext _applicationContext;
 
         public AccountController()
         {
+            _applicationContext = new ApplicationDbContext();
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
@@ -153,10 +155,14 @@ namespace GS.Portal.Web.Controllers
 
         private List<SelectListItem> GetRoles()
         {
-            var userManager = new UserManager();
             List<SelectListItem> roleList = new List<SelectListItem>();
 
-            var roles = userManager.GetRoles();
+            var roles = _applicationContext.Roles.Select(x => new UserRole()
+            {
+                Id = x.Id,
+                Name = x.Name
+            }).ToList();
+
             foreach (var item in roles)
             {
                 roleList.Add(new SelectListItem() { Value = item.Id, Text = item.Name});
@@ -181,15 +187,18 @@ namespace GS.Portal.Web.Controllers
                     FirstName = model.FirstName,
                     MiddleName = model.MiddleName,
                     LastName = model.LastName,
-                    Role = model.SelectedRoleId,
                     EmployeeId = GenerateNextUserId(),
                     DateOfJoining = DateTime.Now
                 };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                    await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
-                    
+                    var roleName = _applicationContext.Roles.Where(x => x.Id == model.SelectedRoleId).FirstOrDefault();
+                    await UserManager.AddToRoleAsync(user.Id, roleName.Name);
+
+                    //await SignInManager.SignInAsync(user, isPersistent:false, rememberBrowser:false);
+
+
                     // For more information on how to enable account confirmation and password reset please visit http://go.microsoft.com/fwlink/?LinkID=320771
                     // Send an email with this link
                     // string code = await UserManager.GenerateEmailConfirmationTokenAsync(user.Id);
@@ -213,6 +222,13 @@ namespace GS.Portal.Web.Controllers
 
             return string.Format("{0}{1}", "EMP", lastUserId + 1);
         }
+
+        //private void AddUserToRole(string employeeId, string selectedRoleId)
+        //{
+        //    var userManager = new UserManager();
+            
+        //    userManager.AddUserToRole(employeeId, selectedRoleId);
+        //}
 
         //
         // GET: /Account/ConfirmEmail
