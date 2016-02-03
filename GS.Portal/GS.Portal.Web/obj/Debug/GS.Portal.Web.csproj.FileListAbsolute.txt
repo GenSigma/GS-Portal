@@ -274,3 +274,4 @@ F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web\bin\GS.Portal.Data.pdb
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.csprojResolveAssemblyReference.cache
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.dll
 F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web\obj\Debug\GS.Portal.Web.pdb
+F:\GenSigma_Portal_1.1\GS-Portal\GS.Portal\GS.Portal.Web\bin\VisualStudioGitIgnore.dll
