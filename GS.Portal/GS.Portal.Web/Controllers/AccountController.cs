@@ -78,9 +78,23 @@ namespace GS.Portal.Web.Controllers
                 return View(model);
             }
 
+            string userName = ""; // in case 'user' is null (user not found)
+
+            var user = await UserManager.FindByEmailAsync(model.Email);
+
+            if (user != null)
+            {
+                userName = user.UserName;
+
+                if (!await UserManager.IsEmailConfirmedAsync(user.Id))
+                {
+                    // (...) Require the user to have a confirmed email before they can log on, etc
+                }
+            }
+
             // This doesn't count login failures towards account lockout
             // To enable password failures to trigger account lockout, change to shouldLockout: true
-            var result = await SignInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, shouldLockout: false);
+            var result = await SignInManager.PasswordSignInAsync(userName, model.Password, model.RememberMe, shouldLockout: false);
             switch (result)
             {
                 case SignInStatus.Success:
@@ -182,7 +196,7 @@ namespace GS.Portal.Web.Controllers
             {
                 var user = new ApplicationUser
                 {
-                    UserName = string.Format("{0}{1}{0}", model.FirstName, model.LastName.Substring(0, 1), "@gensigma.com"),
+                    UserName = string.Format("{0}{1}", model.FirstName, model.LastName.Substring(0, 1)),
                     Email = model.Email,
                     FirstName = model.FirstName,
                     MiddleName = model.MiddleName,
