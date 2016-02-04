@@ -211,6 +211,12 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\Employee\Controllers\EmployeeController.cs" />
     <Compile Include="Areas\Employee\EmployeeAreaRegistration.cs" />
+    <Compile Include="Areas\leave\Controllers\LeaveController.cs" />
+    <Compile Include="Areas\leave\leaveAreaRegistration.cs" />
+    <Compile Include="Areas\Project\Controllers\ProjectController.cs" />
+    <Compile Include="Areas\Project\ProjectAreaRegistration.cs" />
+    <Compile Include="Areas\Salary\Controllers\SalaryController.cs" />
+    <Compile Include="Areas\Salary\SalaryAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -291,6 +297,15 @@
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Employee\Models\" />
     <Folder Include="Areas\Employee\Views\Shared\" />
+    <Folder Include="Areas\leave\Models\" />
+    <Folder Include="Areas\leave\Views\Leave\" />
+    <Folder Include="Areas\leave\Views\Shared\" />
+    <Folder Include="Areas\Project\Models\" />
+    <Folder Include="Areas\Project\Views\Project\" />
+    <Folder Include="Areas\Project\Views\Shared\" />
+    <Folder Include="Areas\Salary\Models\" />
+    <Folder Include="Areas\Salary\Views\Salary\" />
+    <Folder Include="Areas\Salary\Views\Shared\" />
     <Folder Include="Models\Home\" />
     <Folder Include="Views\Base\" />
   </ItemGroup>

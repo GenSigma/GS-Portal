@@ -70,7 +70,6 @@ namespace GS.Portal.Web.Models
         [Display(Name = "First Name")]
         public string FirstName { get; set; }
 
-        [Required]
         [StringLength(40, ErrorMessage = "Field can not be empty", MinimumLength = 1)]
         [Display(Name = "Middle Name")]
         public string MiddleName { get; set; }
@@ -85,16 +84,16 @@ namespace GS.Portal.Web.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
 
-        [Required]
-        [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
-        [DataType(DataType.Password)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
+        //[Required]
+        //[StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
+        //[DataType(DataType.Password)]
+        //[Display(Name = "Password")]
+        //public string Password { get; set; }
 
-        [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
-        public string ConfirmPassword { get; set; }
+        //[DataType(DataType.Password)]
+        //[Display(Name = "Confirm password")]
+        //[Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        //public string ConfirmPassword { get; set; }
 
         [Display(Name = "User Name")]
         public string UserName { get; set; }
@@ -102,14 +101,42 @@ namespace GS.Portal.Web.Models
         [Display(Name = "Employee Id")]
         public string EmployeeId { get; set; }
 
+        [Required]
         [Display(Name = "Date Of Joining")]
         public string DateOfJoining { get; set; }
 
-        public string Role { get; set; }
+        //public string Role { get; set; }
 
+        [Required]
+        [Display(Name = "Role")]
         public string SelectedRoleId { get; set; }
 
         public System.Web.Mvc.SelectList Roles;
+
+        //public string Designation { get; set; }
+
+        [Required]
+        [Display(Name = "Designation")]
+        public string DesignationId { get; set; }
+
+        public System.Web.Mvc.SelectList Designations;
+
+        //public string EmployeeLevel { get; set; }
+
+        [Required]
+        [Display(Name = "Employee Level")]
+        public string EmployeeLevelId { get; set; }
+
+        public System.Web.Mvc.SelectList EmployeeLevels;
+
+        [Required]
+        [Display(Name = "Project Name")]
+        public string ProjectId { get; set; }
+
+        public System.Web.Mvc.SelectList Projects;
+
+        [Required]
+        public int CostToCompany { get; set; }
     }
 
     public class ResetPasswordViewModel
