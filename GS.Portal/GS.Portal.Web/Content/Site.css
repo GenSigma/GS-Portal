@@ -22,3 +22,77 @@ select,
 textarea {
     max-width: 280px;
 }
+a
+{
+    color:white;
+}
+#body
+{
+    border-radius: 25px 0px 25px 0px;
+    border: 1px double #808080;
+    background-color:#ffffff;
+    /*background: url('../Content/Gensigma Low Op.jpg');*/
+    height:auto;
+    width:999px;
+    color:black;
+    float:left;
+    padding:5px;
+   word-wrap:break-word;
+}
+
+#nav-pan
+{
+    border-radius: 25px 0px 25px 0px;
+   background: url('../Content/BG.jpg');
+    line-height:25px;
+     padding:35px;
+    background-color:burlywood;
+    height:auto;
+    width:auto;
+    color:blue;
+    float:left;
+    resize:vertical;
+    /*border: 2px double #808080;*/
+}
+
+#right-pan
+{
+    border-radius: 25px 0px 25px 0px;
+  background: url('../Content/BG.jpg');
+    line-height:25px;
+     padding:35px;
+    background-color:lightgrey;
+    height:auto;
+    width:auto;
+    color:blue;
+    float:right;
+    resize:vertical;
+    /*border: 2px double #808080;*/
+}
+
+
+#footer
+{
+     border-radius: 25px 0px 25px 0px;
+     background: url('../Content/BG2.jpg');
+    background-color:purple;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:00px; 
+}
+
+#header {
+    border-radius: 25px 0px 25px 0px;
+    background: url('../Content/BG2.jpg');
+    background-color:purple;
+    color:white;
+    text-align:center;
+    padding:0px;
+}
+
+#content
+{
+    /*text-align:center;*/
+    padding:15px;
+}
