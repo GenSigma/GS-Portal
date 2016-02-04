@@ -31,27 +31,45 @@
     </div>
 </div>
 <div class="form-group">
-    @Html.LabelFor(m => m.Role, new { @class = "col-md-2 control-label" })
+    @Html.LabelFor(m => m.SelectedRoleId, new { @class = "col-md-2 control-label" })
     <div class="col-md-10">
         @Html.DropDownListFor(m => m.SelectedRoleId, Model.Roles, "--Select One--")
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.DesignationId, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        @Html.DropDownListFor(m => m.DesignationId, Model.Designations, "--Select One--")
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.EmployeeLevelId, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        @Html.DropDownListFor(m => m.EmployeeLevelId, Model.EmployeeLevels, "--Select One--")
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.ProjectId, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        @Html.DropDownListFor(m => m.ProjectId, Model.Projects, "--Select One--")
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.DateOfJoining, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        @Html.TextBoxFor(m => m.DateOfJoining, new { @class = "form-control" })
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.CostToCompany, new { @class = "col-md-2 control-label" })
+    <div class="col-md-10">
+        @Html.TextBoxFor(m => m.CostToCompany, new { @class = "form-control" })
     </div>
 </div>
 <div class="form-group">
     @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
     <div class="col-md-10">
         @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
-    </div>
-</div>
-<div class="form-group">
-    @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
-    <div class="col-md-10">
-        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
-    </div>
-</div>
-<div class="form-group">
-    @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
-    <div class="col-md-10">
-        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
     </div>
 </div>
 <div class="form-group">

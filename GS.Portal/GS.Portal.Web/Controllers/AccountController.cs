@@ -161,8 +161,14 @@ namespace GS.Portal.Web.Controllers
             var registerViewModel = new RegisterViewModel();
 
             var roleList = GetRoles();
+            var designations = GetDesignations();
+            var employeeLevels = GetEmployeeLevels();
+            var projects = GetProjects();
 
             registerViewModel.Roles = new SelectList(roleList, "Value", "Text");
+            registerViewModel.Designations = new SelectList(designations, "Value", "Text");
+            registerViewModel.EmployeeLevels = new SelectList(employeeLevels, "Value", "Text");
+            registerViewModel.Projects = new SelectList(projects, "Value", "Text");
 
             return View(registerViewModel);
         }
@@ -180,6 +186,63 @@ namespace GS.Portal.Web.Controllers
             foreach (var item in roles)
             {
                 roleList.Add(new SelectListItem() { Value = item.Id, Text = item.Name});
+            }
+
+            return roleList;
+        }
+
+        private List<SelectListItem> GetDesignations()
+        {
+            List<SelectListItem> roleList = new List<SelectListItem>();
+            List<ListItem> items = new List<ListItem>();
+
+            items.Add(new ListItem() { Id = "1", Name = "Trainee" });
+            items.Add(new ListItem() { Id = "2", Name = "SE" });
+            items.Add(new ListItem() { Id = "3", Name = "SSE" });
+            items.Add(new ListItem() { Id = "4", Name = "Lead" });
+            items.Add(new ListItem() { Id = "5", Name = "Manager" });
+
+            foreach (var item in items)
+            {
+                roleList.Add(new SelectListItem() { Value = item.Id, Text = item.Name });
+            }
+
+            return roleList;
+        }
+
+        private List<SelectListItem> GetEmployeeLevels()
+        {
+            List<SelectListItem> roleList = new List<SelectListItem>();
+            List<ListItem> items = new List<ListItem>();
+
+            items.Add(new ListItem() { Id = "1", Name = "Level 1" });
+            items.Add(new ListItem() { Id = "2", Name = "Level 2" });
+            items.Add(new ListItem() { Id = "3", Name = "Level 3" });
+            items.Add(new ListItem() { Id = "4", Name = "Level 4" });
+            items.Add(new ListItem() { Id = "5", Name = "Level 5" });
+
+            foreach (var item in items)
+            {
+                roleList.Add(new SelectListItem() { Value = item.Id, Text = item.Name });
+            }
+
+            return roleList;
+        }
+
+        private List<SelectListItem> GetProjects()
+        {
+            List<SelectListItem> roleList = new List<SelectListItem>();
+            List<ListItem> items = new List<ListItem>();
+
+            items.Add(new ListItem() { Id = "1", Name = "GS01" });
+            items.Add(new ListItem() { Id = "2", Name = "GS02" });
+            items.Add(new ListItem() { Id = "3", Name = "GS03" });
+            items.Add(new ListItem() { Id = "4", Name = "GS04" });
+            items.Add(new ListItem() { Id = "5", Name = "GS05" });
+
+            foreach (var item in items)
+            {
+                roleList.Add(new SelectListItem() { Value = item.Id, Text = item.Name });
             }
 
             return roleList;
@@ -204,7 +267,7 @@ namespace GS.Portal.Web.Controllers
                     EmployeeId = GenerateNextUserId(),
                     DateOfJoining = DateTime.Now
                 };
-                var result = await UserManager.CreateAsync(user, model.Password);
+                var result = await UserManager.CreateAsync(user, "Password@1");
                 if (result.Succeeded)
                 {
                     var roleName = _applicationContext.Roles.Where(x => x.Id == model.SelectedRoleId).FirstOrDefault();

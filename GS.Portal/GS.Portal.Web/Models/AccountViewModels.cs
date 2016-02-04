@@ -85,16 +85,16 @@ namespace GS.Portal.Web.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
 
-        [Required]
-        [StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
-        [DataType(DataType.Password)]
-        [Display(Name = "Password")]
-        public string Password { get; set; }
+        //[Required]
+        //[StringLength(100, ErrorMessage = "The {0} must be at least {2} characters long.", MinimumLength = 6)]
+        //[DataType(DataType.Password)]
+        //[Display(Name = "Password")]
+        //public string Password { get; set; }
 
-        [DataType(DataType.Password)]
-        [Display(Name = "Confirm password")]
-        [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
-        public string ConfirmPassword { get; set; }
+        //[DataType(DataType.Password)]
+        //[Display(Name = "Confirm password")]
+        //[Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        //public string ConfirmPassword { get; set; }
 
         [Display(Name = "User Name")]
         public string UserName { get; set; }
@@ -105,11 +105,32 @@ namespace GS.Portal.Web.Models
         [Display(Name = "Date Of Joining")]
         public string DateOfJoining { get; set; }
 
-        public string Role { get; set; }
-
+        [Required]
+        [Display(Name = "Role")]
         public string SelectedRoleId { get; set; }
 
         public System.Web.Mvc.SelectList Roles;
+
+        [Required]
+        [Display(Name = "Designation")]
+        public string DesignationId { get; set; }
+
+        public System.Web.Mvc.SelectList Designations;
+
+        [Required]
+        [Display(Name = "Employee Level")]
+        public string EmployeeLevelId { get; set; }
+
+        public System.Web.Mvc.SelectList EmployeeLevels;
+
+        [Required]
+        [Display(Name = "Project Name")]
+        public string ProjectId { get; set; }
+
+        public System.Web.Mvc.SelectList Projects;
+
+        [Required]
+        public int CostToCompany { get; set; }
     }
 
     public class ResetPasswordViewModel
