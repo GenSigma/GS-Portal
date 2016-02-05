@@ -49,7 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Users\ListItem.cs" />
+    <Compile Include="Entities\ListItem.cs" />
     <Compile Include="Entities\Users\User.cs" />
     <Compile Include="Entities\Users\UserRole.cs" />
     <Compile Include="HelperServices\PortalUnitOfWork.cs" />

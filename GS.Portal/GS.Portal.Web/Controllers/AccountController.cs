@@ -12,6 +12,7 @@ using GS.Portal.Web.Models;
 using GS.Potal.Business;
 using System.Collections.Generic;
 using GS.Portal.Domain.Entities.Users;
+using GS.Portal.Domain.Entities;
 
 namespace GS.Portal.Web.Controllers
 {

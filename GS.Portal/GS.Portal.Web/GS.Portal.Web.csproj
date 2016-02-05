@@ -211,6 +211,12 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\Employee\Controllers\EmployeeController.cs" />
     <Compile Include="Areas\Employee\EmployeeAreaRegistration.cs" />
+    <Compile Include="Areas\Leave\Controllers\LeaveController.cs" />
+    <Compile Include="Areas\Leave\LeaveAreaRegistration.cs" />
+    <Compile Include="Areas\Project\Controllers\ProjectController.cs" />
+    <Compile Include="Areas\Project\ProjectAreaRegistration.cs" />
+    <Compile Include="Areas\Salary\Controllers\SalaryController.cs" />
+    <Compile Include="Areas\Salary\SalaryAreaRegistration.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -243,6 +249,9 @@
     <Content Include="git.ignore" />
     <Content Include="Areas\Employee\Views\Employee\Index.cshtml" />
     <Content Include="Areas\Employee\Views\Employee\SaveEmployeeDetails.cshtml" />
+    <Content Include="Areas\Project\Views\Project\Index.cshtml" />
+    <Content Include="Areas\Salary\Views\Salary\Index.cshtml" />
+    <Content Include="Areas\Leave\Views\Leave\Index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -293,6 +302,12 @@
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Employee\Models\" />
     <Folder Include="Areas\Employee\Views\Shared\" />
+    <Folder Include="Areas\Leave\Models\" />
+    <Folder Include="Areas\Leave\Views\Shared\" />
+    <Folder Include="Areas\Project\Models\" />
+    <Folder Include="Areas\Project\Views\Shared\" />
+    <Folder Include="Areas\Salary\Models\" />
+    <Folder Include="Areas\Salary\Views\Shared\" />
     <Folder Include="Models\Home\" />
     <Folder Include="Views\Base\" />
   </ItemGroup>
